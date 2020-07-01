@@ -1,0 +1,129 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+h2{
+    font-size: 40px;
+    font-weight: 600;
+    color: #202428;
+}
+p{
+    color: dimgray;
+    font-size: 15px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+.purple-highlight{
+    color: #ec4c7a;
+    font-weight: 700;
+    font-size: 50px;
+}
+.half-width{
+    width: 30%;
+    float: left;    
+     margin-left: 10%;
+    padding-left: 0%;
+    padding-top: 6%;
+}
+.first-section{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding: 200px 50px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,#ec4c7a,#ec4c7a);
+    padding: 10px 35px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.second-img{
+    width: 100%;
+}
+.first-img{
+    width: 40%;
+}
+.second-section{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+/* .latest-content{
+    float: left;
+} */
+div{
+    text-align: justify;
+}
+div img{
+    display: inline-block;
+    width: 31%;
+    padding: 1%;
+}
+
+
+h3{
+    font-size: 40px;
+    font-weight: 600;
+    color: #202428;
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+h6{
+     font-size: 20px;
+     font-weight: 600;
+     color: #202428;
+     text-align: center;
+     padding: 0;
+    height: 0;
+
+}
+.client-review p{
+    text-align: center;
+    padding: 0 0 50px 0;
+    height: 0;
+}
+.footer-section{
+    margin: 0px 100px;
+}
+q{
+    text-align: center;
+    padding-left: 25%;
+    font-weight: 400;
+    font-size: 25px;
+    padding-bottom: 50px;
+
+}
+.footer-section{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    margin: 0;
+}
+h6{
+    color: white;
+}
+.link-button2{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,#ec4c7a,rgb(238, 66, 138));
+    padding: 15px 30px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 500;
+    text-align: center;
+    margin: 10px 450px;
+}
+.link-button2 h6{
+    font-size: 15px;
+    font-weight: 500;
+}
+.link-button2 h5{
+    font-size: 25px;
+    font-weight: 500;
+}
+footer p{
+    text-align: center;
+}
